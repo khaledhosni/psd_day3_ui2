@@ -65,3 +65,7 @@ class _MyScreenState extends State<MyScreen> {
     );
   }
 }
+
+
+// for notched button
+//https://api.flutter.dev/flutter/material/BottomAppBar-class.html
